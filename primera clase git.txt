@@ -1,0 +1,19 @@
+  GIT -- 07/03/2019
+
+ GitHub
+Usuario: MezaAlejandro
+con: bn
+
+ Creacion de un repositorio dentro de GitHub
+  AlejandroGit --> es la carpeta local.
+ luego: https://github.com/MiguelCenturion/ColaborativoGit
+
+ --) Crear una rama.
+ git checkout -b tunombre_rama
+
+--) Agregar un archivo al repositorio y hacer commit del mismo
+
+ Empujar la rama al repositorio
+   git push origin tunombre_rama
+
+Generar un pull request en github.
